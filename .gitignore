@@ -1,0 +1,16 @@
+# Ignore node_modules everywhere
+**/node_modules/
+
+# Ignore environment variables
+.env
+.env.local
+
+# Ignore build output
+.next/
+dist/
+out/
+
+# Ignore OS and editor files
+.DS_Store
+.idea/
+.vscode/
